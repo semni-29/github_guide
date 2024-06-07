@@ -1,5 +1,5 @@
 - 출처 : https://github.com/hojihun5516/git_lecture
-
+<br />
 
 # Git 설명 목차 :pencil:
 
@@ -69,6 +69,8 @@
    - 폴더 or 파일 삭제
    - ex) rm -rf node_modules -> node_modules라는 폴더 제거
    - 복구안되니까 신중하게 해주세요 ( 휴지통으로 안들어갑니다 )
+<br />
+
 
 # 1. Git과 GitHub의 차이 :recycle:
 
@@ -81,6 +83,8 @@
 - ### GitHub
 
   - 서비스식 Git 저장소
+
+<br />
 
 # 2. Git 알아보기 :boom:
 
@@ -101,6 +105,8 @@
      - 가벼운 메모리 차지
    - 협업 가능
      - 협업 시 같은 파일을 수정했을 경우 내용을 합치려면 일일이 다 확인해야하는 문제점을 해결
+
+<br />
 
 # 3. Git ​써보기 :hammer:
 
@@ -167,6 +173,8 @@
    - 5) git add .
    - 6) git commit
    - 7) 끝
+
+<br />
 
 # 4. GitHub 써보기 :hammer_and_pick:
 
